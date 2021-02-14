@@ -1,24 +1,9 @@
-<!--
-**Bruno-Lages/Bruno-Lages** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+## Hey there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Pretty computer">
 
 <p align="left"> 
-  Hey, my name is Bruno, I’m currently a <strong>full-stack in progress</strong> and always ready for new opportunities.<br> Now, I'm diving into JavaScript and very excited to discover about this universe.
+  Hi, my name is Bruno, I’m currently a <strong>full-stack in progress</strong> and always ready for new opportunities.<br> Now, I'm diving into JavaScript and very excited to discover about this universe.
 </p>
 
 <p align="left"> 

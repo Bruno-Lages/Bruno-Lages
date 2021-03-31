@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  💌 I’m looking to collaborate on projects and help as long as I can. If you want some help or just some chat, send me a message on Telegram or Discord: 
+  💌 I’m looking to collaborate on projects and help as long as I can. If you want some help or just some chat, send me a message on Telegram or Discord(username: bc#3637): 
 </p>
 
 <p align="left">

@@ -14,11 +14,9 @@
 </p>
 
 <p align="left">
-  💌 I’m looking to collaborate on projects and help as long as I can. If you want some help or just some chat, send me a message on Telegram or Discord(username: bc#3637): 
+  💌 I’m looking to collaborate on projects and help as long as I can. If you want some help or just some chat, send me a message on Discord(username: bc#3637). 
 </p>
 
 <p align="left">
-  <a href="https://t.me/bruno_lages" alt="Telegram">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/> 
 </p>
